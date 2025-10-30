@@ -19,7 +19,7 @@ A comprehensive test automation framework for [SauceDemo](https://www.saucedemo.
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/promtbvb/saucedemo-taf
    cd saucedemo-taf
    ```
 
